@@ -1,0 +1,7 @@
+{
+  "appId": "fr.kseguineau.ionic.capacitor.app",
+  "appName": "ionic-app-capacitor",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}

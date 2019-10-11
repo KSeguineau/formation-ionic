@@ -37,7 +37,7 @@ document.getElementById("btn-photo").addEventListener("click",() =>{
                 <ion-card-content>
                     Test
                 </ion-card-content>
-            </ion-card>
+              </ion-card>
             `)
         },(err) => console.log(err));
 });
